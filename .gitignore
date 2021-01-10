@@ -1,0 +1,8 @@
+# Default ignored files
+.idea/
+.DS_Store
+
+# maven
+/target
+mvnw
+mvnw.cmd
