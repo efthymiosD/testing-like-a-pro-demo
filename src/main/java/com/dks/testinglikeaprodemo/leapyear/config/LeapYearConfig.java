@@ -1,4 +1,4 @@
-package com.dks.testinglikeaprodemo.config;
+package com.dks.testinglikeaprodemo.leapyear.config;
 
 import com.dks.testinglikeaprodemo.leapyear.GregorianLeapYearService;
 import com.dks.testinglikeaprodemo.leapyear.JulianLeapYearService;

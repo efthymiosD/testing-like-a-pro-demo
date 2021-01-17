@@ -2,8 +2,9 @@ package com.dks.testinglikeaprodemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 
-@SpringBootApplication(scanBasePackages = {"com.dks.testinglikeaprodemo"})
+@SpringBootApplication
 public class TestingLikeAProDemoApplication {
 
 	public static void main(String[] args) {
